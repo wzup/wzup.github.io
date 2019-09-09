@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30fe3028-9ca1-4d29-beec-86bc23461713" name="Default Changelist" comment="" />
+    <list default="true" id="30fe3028-9ca1-4d29-beec-86bc23461713" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,38 +16,20 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.53266335">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="429">
-                  <caret line="45" column="8" selection-start-line="45" selection-start-column="4" selection-end-line="49" selection-end-column="11" />
-                  <folding>
-                    <element signature="n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/css/styles.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="675">
-                  <caret line="117" column="18" selection-start-line="117" selection-start-column="18" selection-end-line="117" selection-end-column="18" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="117" column="18" selection-start-line="117" selection-start-column="18" selection-end-line="117" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -61,6 +45,7 @@
     <option name="width" value="1541" />
     <option name="height" value="971" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -86,6 +71,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CSS" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
@@ -119,12 +105,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567023808418</updated>
-      <workItem from="1567023809781" duration="9075000" />
+      <workItem from="1567023809781" duration="9316000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9075000" />
+    <option name="totallyTimeSpent" value="9316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="139" y="23" width="1541" height="971" extended-state="0" />
@@ -179,21 +165,21 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="117" column="18" selection-start-line="117" selection-start-column="18" selection-end-line="117" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="45" column="8" selection-start-line="45" selection-start-column="4" selection-end-line="49" selection-end-column="11" />
+        <state relative-caret-position="533">
+          <caret line="53" column="7" lean-forward="true" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
           <folding>
             <element signature="n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="117" column="18" selection-start-line="117" selection-start-column="18" selection-end-line="117" selection-end-column="18" />
         </state>
       </provider>
     </entry>
